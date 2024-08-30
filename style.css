@@ -7,9 +7,6 @@
 
 body{
   background-color: #2192ff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .center{
@@ -23,9 +20,6 @@ body{
 .container {
   position: relative;
   margin: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 nav {
