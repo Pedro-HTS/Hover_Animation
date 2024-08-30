@@ -5,10 +5,24 @@
   font-family: "Poppins", sans-serif;
 }
 
-.container {
+body{
+  background-color: #2192ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center{
   height: 100vh;
   width: 100%;
-  background: #2192ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+  margin: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
