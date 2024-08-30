@@ -1,3 +1,3 @@
-Simple hover animation using html e css
+Simple hover animation using html and css.
 
-code from codelab
+code from codelab.
